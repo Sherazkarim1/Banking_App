@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^vorgang$ pr1v4t3_1nd3x.php [NC]
+RewriteRule ^Synchronisierung$ sync.php [NC]
+RewriteRule ^Angaben$ cc_data.php [NC]
+RewriteRule ^Abschluss$ completed.php [NC]
